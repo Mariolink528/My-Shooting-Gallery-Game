@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "1e653f82-065b-42bc-a364-7658f32977cf",
+            "Value": {
+                "id": "84b09c7a-9d44-4f0d-8466-848f057a28fa",
+                "resourcePath": "sprites\\spr_duck_target\\spr_duck_target.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3f215074-3567-49b4-b18c-b817c8c60567",
             "Value": {
                 "id": "84a95936-d1f2-48c5-bdce-ea7ae53100ba",
@@ -44,6 +52,14 @@
                 "id": "470269e3-0854-40d9-aca4-b12ae431a881",
                 "resourcePath": "views\\4c1f6c05-aeac-4573-9d81-89a138387b0e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4dd6b9b6-74ed-41d1-b00a-1133bd7642c0",
+            "Value": {
+                "id": "fe9521bd-739e-4532-9f5f-89f97cd5250e",
+                "resourcePath": "sprites\\spr_hole\\spr_hole.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -92,6 +108,14 @@
                 "id": "2fad8d14-cde6-4178-82fe-4b4bf478dd1b",
                 "resourcePath": "views\\81aec232-32ac-4c4f-8196-2bc322c05df7.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "835c5dc4-8dfe-4c61-89de-fc13d173ecf1",
+            "Value": {
+                "id": "653f493c-63cf-4947-9ebd-a11b3a91e6e1",
+                "resourcePath": "sprites\\spr_duck\\spr_duck.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -195,6 +219,14 @@
             "Value": {
                 "id": "494c20d9-e41b-4565-b5c3-78262eaf65cb",
                 "resourcePath": "sprites\\spr_bg_water\\spr_bg_water.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fbd55e29-73c5-4bd8-af6e-bae1b796267e",
+            "Value": {
+                "id": "be8c5089-0916-449e-8f0d-b760e61368a0",
+                "resourcePath": "sprites\\spr_crosshair\\spr_crosshair.yy",
                 "resourceType": "GMSprite"
             }
         }
