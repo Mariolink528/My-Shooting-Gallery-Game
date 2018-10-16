@@ -1,38 +1,38 @@
 {
-    "id": "678c3059-0a1d-431a-bd2e-fd6565af1a56",
+    "id": "d1fa4186-6ff4-4704-876c-d44123e614da",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_controller",
+    "name": "obj_target",
     "eventList": [
         {
-            "id": "2ca54581-130b-4ff4-9e38-7a4dc8335b22",
+            "id": "9396e688-aecb-44f5-b245-fb17770ff77b",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "678c3059-0a1d-431a-bd2e-fd6565af1a56"
+            "m_owner": "d1fa4186-6ff4-4704-876c-d44123e614da"
         },
         {
-            "id": "d0cee44f-e1d5-4ebc-9b7b-49903037d029",
+            "id": "227ad57f-396e-44be-bb32-466a9ac7f681",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 64,
-            "eventtype": 8,
-            "m_owner": "678c3059-0a1d-431a-bd2e-fd6565af1a56"
+            "enumb": 4,
+            "eventtype": 6,
+            "m_owner": "d1fa4186-6ff4-4704-876c-d44123e614da"
         },
         {
-            "id": "1ec91b20-8466-47e6-8753-147981e37963",
+            "id": "06f673e3-9eab-4e06-b3c4-31ae579ad24e",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "678c3059-0a1d-431a-bd2e-fd6565af1a56"
+            "eventtype": 7,
+            "m_owner": "d1fa4186-6ff4-4704-876c-d44123e614da"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -53,6 +53,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "f24cfe18-aa4a-474f-8c3b-5633921ae126",
     "visible": true
 }

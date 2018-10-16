@@ -1,38 +1,38 @@
 {
-    "id": "678c3059-0a1d-431a-bd2e-fd6565af1a56",
+    "id": "6ab7ad3a-696d-4efd-8bbc-ffb548cab4ac",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_controller",
+    "name": "obj_target_bullets",
     "eventList": [
         {
-            "id": "2ca54581-130b-4ff4-9e38-7a4dc8335b22",
+            "id": "7faef162-1f13-451c-8fe0-a2c15983a546",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "678c3059-0a1d-431a-bd2e-fd6565af1a56"
+            "m_owner": "6ab7ad3a-696d-4efd-8bbc-ffb548cab4ac"
         },
         {
-            "id": "d0cee44f-e1d5-4ebc-9b7b-49903037d029",
+            "id": "e391e59b-5e84-4da6-9f0f-f34e370b5a2a",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 64,
-            "eventtype": 8,
-            "m_owner": "678c3059-0a1d-431a-bd2e-fd6565af1a56"
+            "enumb": 4,
+            "eventtype": 6,
+            "m_owner": "6ab7ad3a-696d-4efd-8bbc-ffb548cab4ac"
         },
         {
-            "id": "1ec91b20-8466-47e6-8753-147981e37963",
+            "id": "a781d209-e0b1-4b05-9fdd-e48ccbab8dca",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "678c3059-0a1d-431a-bd2e-fd6565af1a56"
+            "eventtype": 7,
+            "m_owner": "6ab7ad3a-696d-4efd-8bbc-ffb548cab4ac"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -53,6 +53,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "2db1401e-b7c3-471f-a60c-15d1d5452bea",
     "visible": true
 }
